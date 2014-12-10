@@ -26,18 +26,6 @@
 
 
 
-<!-- .slide: data-state="splines-state" -->
-##SPLINES
-<canvas id="canvas1" width="600" height="400"></canvas>
-
-
-
-<!-- .slide: data-state="cardinal-state" -->
-## CARDINALES
-<canvas id="canvas2"></canvas>
-
-
-
 ### INTRODUCCIÓN: Líneas y Superficies Curvas
 </br>
 
@@ -406,6 +394,26 @@
 
 
 
+<!-- .slide: data-state="splines-state" -->
+## REPRESENTACIONES DE SPLINE
+
+</br>
+<p align="left">
+	<font color="green">EJEMPLO</font>
+</p>
+<canvas id="canvas1" width="600" height="400"></canvas>
+
+
+<!-- .slide: data-state="cardinal-state" -->
+## REPRESENTACIONES DE SPLINE
+
+</br>
+<p align="left">
+	<font color="green">EJEMPLO</font>
+</p>
+<canvas id="canvas2"></canvas>
+
+
 ## REPRESENTACIONES DE SPLINE
 
 </br>
@@ -472,9 +480,6 @@
 </p> <!-- .element: class="fragment" data-fragment-index="1"-->
 
 <img height="250" src="fig/intro2.jpg" align ="center"><!-- .element: class="fragment" data-fragment-index="1"-->
-<!-- IDEAL QUE ACA FUERAN LOS SKETCH-->
-<!-- IDEAL QUE ACA FUERAN LOS SKETCH-->
-<!-- IDEAL QUE ACA FUERAN LOS SKETCH-->
 
 </br>
 </br>
