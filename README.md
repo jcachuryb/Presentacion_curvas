@@ -1,4 +1,4 @@
-## Visual Computing Slides -- Transformations
+## Visual Computing Slides -- Curves
 
 Part of the *Visual Computing* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info) and [Andres Colubri](http://codeanticode.wordpress.com/).
 
